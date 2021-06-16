@@ -1,0 +1,6 @@
+---
+applications:
+  - name: eureka-server
+    env:
+	   PORT: 8761
+#      MONGO_SERVICE_NAME: "mymongodb"
